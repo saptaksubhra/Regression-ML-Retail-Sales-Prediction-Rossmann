@@ -35,10 +35,16 @@ An accurate forecast of sales allows retail outlets to answer questions such as:
 
 📖 Algorithms Used :
 
-Linear Regression
-Lasso Regression or L1 Regularization
-Ridge Regression or L2 Regularization
-Elastic Net Regression
-Decision Tree
-Random Forest
-XGBoost Regressor
+* Linear Regression
+
+* Lasso Regression or L1 Regularization
+
+* Ridge Regression or L2 Regularization
+
+* Elastic Net Regression
+
+* Decision Tree
+
+* Random Forest
+
+* XGBoost Regressor
