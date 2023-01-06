@@ -21,7 +21,7 @@ An accurate forecast of sales allows retail outlets to answer questions such as:
 
 * Scaling numeric features to a (0,1) range
 
-* Exploratory Data Analysis
+* Exploratory Data Analysis (On Individual Dataset and Merged Dataset)
 
 * Merging of Datasets
 
@@ -43,8 +43,12 @@ An accurate forecast of sales allows retail outlets to answer questions such as:
 
 * Elastic Net Regression
 
-* Decision Tree
+* Decision Tree Regressor
 
-* Random Forest
+* Random Forest Regressor
 
 * XGBoost Regressor
+
+* AdaBoost Regressor
+
+* GradientBoost Regressor
