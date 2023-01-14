@@ -17,7 +17,7 @@ An accurate forecast of sales allows retail outlets to answer questions such as:
 
 * Loading our dataset and importing all the useful libraries : We have two datasets. One is Sales dataset and other is Stores dataset. Loading of those two datasets with proper commands and importing required libraries to perform various operations have been executed at the outset of the project.
 
-* Data preprocessing and Feature Engineering : Lot of techniques ( Such as : describe, info, unique values and many more ) havee been applied to get the ins of outs from both (Sales and Stores ) datasets as far as the data preprocessing is concerned. As to Feature Engineering, handling outliers, handling and counting of missing values have been accomplished in case of both Sales and Stores datasets.
+* Data preprocessing and Feature Engineering : Lot of techniques ( Such as : describe, info, unique values and many more ) have been applied to get the ins of outs from both (Sales and Stores ) datasets as far as the data preprocessing is concerned. As to Feature Engineering, handling outliers, handling and counting of missing values have been accomplished in case of both Sales and Stores datasets.
 
 * Scaling numeric features to a (0,1) range : Some features are converted into boolean numbers. For example, 'StateHoliday' column has been converted into Boolean variable in Sales dataset. The value of type a, b , c are converted into 1 and others into 0.
 
@@ -37,9 +37,9 @@ There should be no correlation between residual terms.
 Correlation Heatmap
 Correlation Matrix : Correlation is a statistical term used to measure the degree in which two variables move in relation to each other. A perfect positive correlation means that the correlation coefficient is exactly 1. This implies that as one variable moves, either up or down, the other moves in the same direction. A perfect negative correlation means that two variables move in opposite directions, while a zero correlation implies no linear relationship at all. This correlation heatmap is here to visualize correlation amongst variables.
 
-Selection and Final selection of Independent Variables : The selection of independent variables has been done prior to model building based on regression algorithms.
+* Selection and Final selection of Independent Variables : The selection of independent variables has been done prior to model building based on regression algorithms.
 
-Train-Test Split: Here, the merged dataset has been split into training and testing dataset. The model has been trained with the help of training set and then testing set has been used to test or evaluate the model.
+* Train-Test Split: Here, the merged dataset has been split into training and testing dataset. The model has been trained with the help of training set and then testing set has been used to test or evaluate the model.
 
 * Importance of Features : The importance of features in the merged dataset has been calculated here. 'Customers' is found out to be the most important feature with almost 72% of share of importance.
 
