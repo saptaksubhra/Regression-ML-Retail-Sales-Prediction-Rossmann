@@ -5,7 +5,7 @@ Regression ML Project
 
 📖 Introduction :
 
-A major challenge for large retailers is to address the reqirements of the consumers more effectively on a local level, while maintaining the efficiencies of central distribution simultaneously. As the demand for mass customization by consumers grows, methods focused on store level optimization increase in value. Prediction of sales is an important implementation of machine learning in the retail space. Given accurate predictions, retailers can manage dynamic pricing, staff rostering and inventory so as to maximize profit and improve the customers' experience.
+A major challenge for large retailers is to address the requirement of the consumers more effectively on a local level, while maintaining the efficiencies of central distribution simultaneously. As the demand for mass customization by consumers grows, methods focused on store level optimization increase in value. Prediction of sales is an important implementation of machine learning in the retail space. Given accurate predictions, retailers can manage dynamic pricing, staff rostering and inventory so as to maximize profit and improve the customers' experience.
 
 An accurate forecast of sales allows retail outlets to answer questions such as:
 
